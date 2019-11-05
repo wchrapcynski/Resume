@@ -1,0 +1,25 @@
+{
+    "name": "Willam Chrapcynski",
+    "website": "http://www.pureshift.com",
+    "linkedin": "https://www.linkedin.com/in/william-chrapcynski/",
+    "github": "wchrapcynski",
+    "email": "wchrapcynski@gmail.com",
+    "resume": "https://docs.google.com/document/d/1HHzWqTKhij1-Kt7ibYjOw1Xn4oIaNxkp_POzziLDO9U/edit?usp=sharing",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "CSS",
+        "HTML",
+        "Node",
+        "Mongodb",
+        "C#",
+        "C++",
+        "Wordpress",
+        "Unity"
+    ],
+    "otherSkills": [
+        "Auto Production",
+        "Internet of Things",
+        "Making"
+    ]
+}
